@@ -13,3 +13,4 @@
 12. gpg7
 13. gpg8
 14. new key
+15. new pc new test
